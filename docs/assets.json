@@ -1,0 +1,50 @@
+[
+  {
+    "file": "dolomitas.webp",
+    "photo": "photo-1480497490787-505ec076689f",
+    "author": "Tim Stief",
+    "source": "https://unsplash.com/photos/YFFGkE3y4F8",
+    "license": "https://unsplash.com/license",
+    "alt": "Montañas nevadas reflejadas en el lago Toblacher See, Dolomitas"
+  },
+  {
+    "file": "kyoto.webp",
+    "photo": "photo-1551106368-d9157e48a3ca",
+    "author": "Nic Y-C",
+    "source": "https://unsplash.com/photos/eRNWnwY63Cg",
+    "license": "https://unsplash.com/license",
+    "alt": "Puertas torii de Fushimi Inari en Kyoto"
+  },
+  {
+    "file": "madeira.webp",
+    "photo": "photo-1725380055302-75ef7cec17bd",
+    "author": "Mick Kirchman",
+    "source": "https://unsplash.com/photos/E3tEkDXQ-Q8",
+    "license": "https://unsplash.com/license",
+    "alt": "Vista de Funchal y el océano en Madeira"
+  },
+  {
+    "file": "valle-sagrado.webp",
+    "photo": "photo-1771819335859-6bc8cebf20c7",
+    "author": "Will Goodman",
+    "source": "https://unsplash.com/photos/JLF6J6N5uiI",
+    "license": "https://unsplash.com/license",
+    "alt": "Terrazas agrícolas incas en el Valle Sagrado del Perú"
+  },
+  {
+    "file": "atacama.webp",
+    "photo": "photo-1635982459726-dc9a3c4f08b4",
+    "author": "Jorge Mülchi Cossio",
+    "source": "https://unsplash.com/photos/Ve-iZ0GVGpI",
+    "license": "https://unsplash.com/license",
+    "alt": "Carretera abierta entre los paisajes del desierto de Atacama"
+  },
+  {
+    "file": "islandia.webp",
+    "photo": "photo-1769670172719-8ee9611450e5",
+    "author": "Balázs Gábor",
+    "source": "https://unsplash.com/photos/UJ6J0tG_9VA",
+    "license": "https://unsplash.com/license",
+    "alt": "Cascada y río entre rocas cubiertas de musgo en Islandia"
+  }
+]
