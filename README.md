@@ -62,9 +62,13 @@ Next.js 16.4.6 App Router, React 19.3.0, TypeScript estricto, Tailwind CSS 4, Mo
 
 ## Publicación
 
-Preparado para Vercel con Node.js 22.x, preset Next.js, raíz del repositorio y build `npm run build`. No requiere servicios adicionales ni variables secretas. El repositorio público y el proyecto de hosting aún no se han creado: requieren autorización específica del propietario.
+Repositorio público: https://github.com/cbances03/aurora-travel-demo
 
-Después de autorizar, crear un repositorio nuevo aurora-travel-demo, subir main y conectar Vercel/GitHub para despliegues automáticos. Comprobar HTTPS, acceso anónimo, rutas directas y E2E sobre la URL real antes de declarar publicado. No utilizar un nombre ocupado para modificar un recurso existente.
+URL pública: https://aurora-travel-demo.vercel.app
+
+Vercel: equipo c-3, proyecto aurora-travel-demo, Node.js 22.x, preset Next.js y build `npm run build`. GitHub conectado con rama de producción main. No requiere servicios adicionales ni variables secretas. Recursos creados con autorización específica del propietario, en el plan Hobby existente sin contratar extras.
+
+Para desplegar una copia, importar el repositorio en una cuenta autorizada, usar estos mismos ajustes y conectar su rama main. Comprobar HTTPS, acceso anónimo, rutas directas y E2E sobre la URL real. No utilizar un nombre ocupado para modificar un recurso existente. Los resultados de esta entrega se registran en docs/QA.md.
 
 ## Mantenimiento
 

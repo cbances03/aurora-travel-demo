@@ -51,4 +51,8 @@ La revisión automatizada no constituye certificación de accesibilidad. No se h
 
 ## Publicación
 
-No hay repositorio remoto ni despliegue de Aurora todavía. Pendiente de autorización específica para crear recursos externos. Las pruebas descritas son locales; no se atribuyen a una URL pública.
+El propietario autorizó la publicación. Repositorio público: https://github.com/cbances03/aurora-travel-demo. URL HTTPS: https://aurora-travel-demo.vercel.app.
+
+Build remoto aprobado; despliegue inicial dpl_5CfNu6yd2noGxUaSybeswJe3en3U en READY. Petición HTTPS anónima: HTTP 200, título correcto y sin redirección a autenticación. Suite completa ejecutada sobre la URL pública: **48 passed (1.4m)**, código 0, sin credenciales, cookies de sesión ni bypass. Incluye las doce rutas, imágenes, consola, accesibilidad, filtros, galería, persistencia, reservas simuladas e itinerarios.
+
+Vercel/GitHub conectado: repositorio aurora-travel-demo, productionBranch main y Node.js 22.x confirmados mediante lectura de configuración. Equipo c-3, plan Hobby sin extras contratados. Las URLs de preview conservan su protección predeterminada; la URL de producción indicada es pública.
